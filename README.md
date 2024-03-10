@@ -51,7 +51,7 @@
 
 # 💫 About Us:
 
-Hi 👋, We are 3K NextGenTech from Vietnam.<br>🔭 3K NextGenTech - The next generation of technology - Providing technology services and solutions.Technology<br>📫 How to contact us 3k.nextgentech@gmail.com
+Hi 👋, We are 3K NextGenTech from Vietnam.<br>🔭 3K NextGenTech - The next generation of technology - Providing technology services and solutions.<br>📫 How to contact us 3k.nextgentech@gmail.com
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
